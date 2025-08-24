@@ -6,7 +6,7 @@ The simpliest way to deploy the vpc is to  do so locally.
 
 [Doc](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli#install-terraform) will provide the best method to install terraform based on your OS.
 
-## Install AWScli
+## Install AWSCLI
 
 [Doc](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html#getting-started-install-instructions) will provide the best method to install awscli based on your OS.
 
@@ -22,7 +22,7 @@ Run this command to configure your local environment to AWS account.
 aws configure
 ```
 
->> If you run into issues. You might be missing permissions in your aws account.
+> If you run into issues. You might be missing permissions in your aws account.
 
 ### Prepare Variables
 
