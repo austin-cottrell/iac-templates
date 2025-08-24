@@ -1,0 +1,3 @@
+company_name = "devops4u"
+production   = false
+region       = "us-west-2"
